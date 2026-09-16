@@ -1,6 +1,6 @@
 # ros_hand_gesture_robot
 
-Hệ thống ROS điều khiển robot vi sai bằng nhận diện cử chỉ tay từ webcam.
+Hệ thống ROS điều khiển robot mô phỏng bằng nhận diện cử chỉ tay từ webcam.
 
 ## Tổng quan
 
